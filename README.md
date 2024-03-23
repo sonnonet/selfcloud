@@ -5,6 +5,7 @@
 
 ## RaspberryPi5 with NVMe disk
 - High speed, quite enough performance for persnal and family cloud usage
+- It is now SSDPi Ver.2.0 (as of 2024.3)
 
 ## Procesure (설치방법)
 1. NVMe 에 RaspberryPi5용 Ubuntu 설치
