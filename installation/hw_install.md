@@ -13,9 +13,9 @@
 ![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/063900fd-a036-47ad-a26e-0eb004157bc7)
 
 - (2) 조립
-- ![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/01088db7-1aa0-4906-afa4-01753bf1ded1)
 - ![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/b713c465-cf68-41a9-8eed-61abfae197af)
 - ![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/d943e763-4328-4668-b06f-16907314aa9b)
+- ![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/01088db7-1aa0-4906-afa4-01753bf1ded1)
 
 - (3) NVME 스토리지
 - ![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/2aca320c-4f36-4bbd-881a-014a2f234b55)
