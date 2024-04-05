@@ -17,7 +17,6 @@
 ## Hardware Assembly
 - https://github.com/jeonghoonkang/selfcloud/blob/main/installation/hw_install.md
 
-
 ## Software Installation
 ### Requirements
 ### Installation Ubuntu
