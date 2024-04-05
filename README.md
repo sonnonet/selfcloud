@@ -1,5 +1,5 @@
 # Self Cloud Machine
-- self cloud machine and self data machine
+- Self cloud machine and self data machine
 - It supports Home-scale cloud system which based on RaspberryPi 5 and Ubuntu OS system
 - http://ssncloud.iptime.org:8888
 
