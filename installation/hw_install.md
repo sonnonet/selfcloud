@@ -13,7 +13,7 @@
   - Ubutu 설치
 - (2) NVMe 부팅 설정
   - RaspiOS 를 이용하여, NVMe 부팅 설정해야 함
-  - <a href="https://github.com/jeonghoonkang/BerePi/tree/master/setup/raspi5#raspi5-nvme-부팅" target="_blank">
+  - <a href="https://github.com/jeonghoonkang/BerePi/tree/master/setup/raspi5#raspi5-nvme-부팅" target="_blank"> NVMe 부팅 설정 </a>
   
 ### 하드웨어 조립 
 - (1) 커넥터 연결
