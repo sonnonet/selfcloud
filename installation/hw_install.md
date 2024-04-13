@@ -7,7 +7,11 @@
 
 ### NVMe 소프트웨어 저장, 준비
 - (1) NVMe 디스크에 Ubuntu 설치
-- (2) RaspberryPi Imager를 이용하여 설치 
+  - RaspberryPi Imager를 이용하여 설치
+  - RaspberryPi Imager 사용 
+  - <img width="678" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/fb523df3-e096-4796-82e3-f94d9931376d">
+
+  
 ### 하드웨어 조립 
 - (1) 커넥터 연결
 ![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/063900fd-a036-47ad-a26e-0eb004157bc7)
