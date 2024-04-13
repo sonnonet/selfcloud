@@ -11,7 +11,9 @@
   - RaspberryPi Imager 사용 
   - <img width="678" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/fb523df3-e096-4796-82e3-f94d9931376d">
   - Ubutu 설치
-
+- (2) NVMe 부팅 설정
+  - RaspiOS 를 이용하여, NVMe 부팅 설정해야 함
+  -  
   
 ### 하드웨어 조립 
 - (1) 커넥터 연결
