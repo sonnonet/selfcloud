@@ -1,7 +1,7 @@
 # Self Cloud Machine
 - Self cloud machine for self big data, instelligent software service
 - It supports Home-scale cloud system which based on RaspberryPi 5 and Ubuntu OS system
-- http://ssncloud.iptime.org:8888
+- Web page : http://ssncloud.iptime.org:8888
 
 ## RaspberryPi5 with NVMe disk
 - High speed, quite enough performance for persnal and family cloud usage
