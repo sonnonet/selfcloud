@@ -13,7 +13,7 @@
 3. 네트워크 연결 및 클라우드 설정
 4. Docker 서비스 실행 
 
-## Hardware Assembly
+## Hardware Assembly(하드웨어 조립, 사진포함)
 - https://github.com/jeonghoonkang/selfcloud/blob/main/installation/hw_install.md
 
 ## Software Installation
