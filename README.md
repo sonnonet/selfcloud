@@ -17,6 +17,9 @@
 - https://github.com/jeonghoonkang/selfcloud/blob/main/installation/hw_install.md
 
 ## Software Installation
+- RaspberryPi Imager로 Ubuntu OS 설치
+- USB to NVMe 어댑터 필요
+
 ### Requirements
 ### Installation Ubuntu
 
