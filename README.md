@@ -8,7 +8,7 @@
 - Also name is SSDPi Ver.2.0 (as of 2024.3) on the web page which is same hardware and software
 
 ## Procesure (설치방법)
-1. NVMe 에 RaspberryPi5용 Ubuntu 설치
+1. NVMe 에 RaspberryPi5용 Ubuntu OS 설치
 2. 하드웨어 조립
 3. 네트워크 연결 및 클라우드 설정
 4. Docker 서비스 실행 
