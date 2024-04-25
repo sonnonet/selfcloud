@@ -14,7 +14,7 @@
 4. Docker 서비스 실행 
 
 ## Hardware Assembly(하드웨어 조립, 사진포함)
-- https://github.com/jeonghoonkang/selfcloud/blob/main/installation/hw_install.md
+- Hardware assembly, https://github.com/jeonghoonkang/selfcloud/blob/main/installation/hw_install.md
 
 ## Software Installation
 - RaspberryPi Imager로 Ubuntu OS 설치
