@@ -18,7 +18,7 @@
 
 ## Software Installation
 - RaspberryPi Imager로 Ubuntu OS 설치
-- USB to NVMe 어댑터 필요
+- Ubuntu OS 이미지 다운로드를 위한 USB to NVMe 어댑터 필요
 
 ### Requirements
 ### Installation Ubuntu
