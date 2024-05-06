@@ -1,5 +1,5 @@
 # Self Cloud Machine
-- Self cloud machine for self big data, instelligent software service
+- Self cloud machine for self hosting of my big data, instelligent software service
 - It supports Home-scale cloud system which based on RaspberryPi5 and Ubuntu OS system
 - Web page : http://ssncloud.iptime.org:8888
 
