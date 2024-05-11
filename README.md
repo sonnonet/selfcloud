@@ -3,11 +3,11 @@
 - It supports Home-scale cloud system which based on RaspberryPi5 and Ubuntu OS system
 - Web page : http://ssncloud.iptime.org:8888
 
-## RaspberryPi5 with NVMe disk booting, it has very good speed
+## RaspberryPi5 with NVMe disk booting, it has very nice speed
 - High speed, quite enough performance for persnal and family cloud usage
 - Also name is SSDPi Ver.2.0 (as of 2024.3) on the web page which is same hardware and software
 
-## Procesure (설치방법)
+## How to install (설치방법)
 1. NVMe 에 RaspberryPi5용 Ubuntu OS 설치
 2. 하드웨어 조립, NVMe 에 Ubuntu OS 이미지 다운로드 되어 있어야 함 (1번 과정 실행) 
 3. 네트워크 연결 및 클라우드 설정
