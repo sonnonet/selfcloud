@@ -28,5 +28,3 @@
 - 움직임 감지 카메라
 - https://github.com/jeonghoonkang/BerePi/tree/master/apps/camera/motion
 
-
-  
