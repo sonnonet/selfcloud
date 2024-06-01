@@ -4,8 +4,9 @@
 - consist of installation, run scripts, system configuration
 
 ## structure (struct)
-### (struct) apps
+### (struct) apps_run_script
 - nextcloud
   - which is set up by IoT Stack   
 - teslamate
-  
+### (struct) storage_run
+- extgernal_local_nc_ssh
