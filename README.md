@@ -22,7 +22,7 @@
 
 ### Requirements
 ### Installation Ubuntu
-
+### Structure of self cloud system
 ### Application (응용SW)
 #### motion
 - 움직임 감지 카메라
