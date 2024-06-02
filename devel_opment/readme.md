@@ -10,3 +10,6 @@
 - teslamate
 ### (struct) storage_run
 - extgernal_local_nc_ssh
+#### run the make dirs
+- bash makestruct.sh
+  - if you want to remove dirs to return to clean  
