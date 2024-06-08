@@ -17,15 +17,15 @@
 ## Hardware Assembly(하드웨어 조립, 사진포함)
 - Hardware assembly, https://github.com/jeonghoonkang/selfcloud/blob/main/installation/hw_install.md
 
-## Software Installation
+# Software Installation
 - RaspberryPi Imager로 Ubuntu OS 설치
 - Ubuntu OS 이미지 다운로드를 위한 USB to NVMe 어댑터 필요
 
-### Requirements
-### Installation Ubuntu
-### Structure of self cloud system
-### Application (응용SW)
-#### motion
+## Requirements
+## Installation Ubuntu
+## Structure of self cloud system
+## Application (응용SW)
+### motion
 - 움직임 감지 카메라
 - https://github.com/jeonghoonkang/BerePi/tree/master/apps/camera/motion
 
