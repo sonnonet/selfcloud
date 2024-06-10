@@ -67,3 +67,5 @@ services:
 - If run docker-compose, you can see below web page
   - <img width="800" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/d9c16506-ad7c-461e-9835-1a3bc32e9af2">
  
+## for Upgrade
+- just type, docker-compose pull
