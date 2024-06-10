@@ -5,7 +5,8 @@
 - how to download and run
   - wget https://raw.githubusercontent.com/jeonghoonkang/selfcloud/main/apps/teslamate/docker-compose.yml
   - 환경에 맞추어, docker-compose.yml 수정
-  <pre>
+
+<pre>
 services:
     teslamate:
       image: teslamate/teslamate:latest
