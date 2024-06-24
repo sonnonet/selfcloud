@@ -3,7 +3,7 @@
 - curl -fsSL https://raw.githubusercontent.com/SensorsIot/IOTstack/master/install.sh | bash
 - cd ~/IOTstack
 - sudo ./menu.sh
-  - 이후 메뉴에 따라 설치 (./iostack_run.md)
+  - 이후 메뉴에 따라 설치 [메뉴설치](iostack_run.md) 
 
 ## 문제 발생시, 설치 완료 불가능
 <pre>
