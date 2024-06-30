@@ -11,3 +11,8 @@
   - Nc 서버에 동기화중인 사진을 지우면, 연결된 모든 디바이스에서 사진이 삭제 됩니다
     - 가장 어려운 부분이 있는데, 핸드폰의 사진첩에서 Nc 서버로 사진을 동기화 할때, 스마트폰 Nc app을 사용합니다
     - 기억해야할 사항은 Nc app 은 스마트폰 사진첩 과 동일한 소프트웨어가 아닙니다. 두가지 app 모두 사진을 보여준다고 동일하게 생각하면 안됩니다 
+
+## App
+### 사진
+### 메모리즈, memories
+- <img width="325" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/6c75af9b-b38c-4ee5-9ba4-3af06eb23f1c">
