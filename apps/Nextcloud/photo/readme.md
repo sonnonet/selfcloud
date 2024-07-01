@@ -18,4 +18,4 @@
 - 메모리즈는 시간라인 으로 사진을 정리해주는 app
   - 동작 성능이 빠르고, 이동/복사/삭제 기능이 기본 사진app 보다 신속히 동작함  
   - <img width="325" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/6c75af9b-b38c-4ee5-9ba4-3af06eb23f1c">
-- 동작 디렉토리를 다른 위치로 지정하여, 기본 사진app 과 차별화하여 실행, 운영 가능함 
+- 동작 디렉토리를 다른 위치로 지정하여, 기본 사진app 과 차별화하여 실행, 운영 가능함  
