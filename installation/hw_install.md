@@ -16,11 +16,12 @@
   - <a href="https://github.com/jeonghoonkang/BerePi/tree/master/setup/raspi5#raspi5-nvme-부팅" target="_blank">NVMe 부팅 설정</a>
   - [NVMe 부팅 설정][]
   - [NVMe 부팅 설정]:
-<https://github.com/jeonghoonkang/BerePi/tree/master/setup/raspi5#raspi5-nvme-부팅>
+
+<img width="800" alt="image" src=
   
 ### 하드웨어 조립 
 - (1) 커넥터 연결
-![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/063900fd-a036-47ad-a26e-0eb004157bc7)
+<img width="800" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/063900fd-a036-47ad-a26e-0eb004157bc7">
 
 - (2) 조립
 - ![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/b713c465-cf68-41a9-8eed-61abfae197af)
