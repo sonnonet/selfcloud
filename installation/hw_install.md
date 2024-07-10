@@ -20,7 +20,7 @@
  
 ### 하드웨어 조립 
 - (1) 커넥터 연결
-<img width="400" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/063900fd-a036-47ad-a26e-0eb004157bc7">
+  - <img width="400" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/063900fd-a036-47ad-a26e-0eb004157bc7">
 
 - (2) 조립
 - ![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/b713c465-cf68-41a9-8eed-61abfae197af)
