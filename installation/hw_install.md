@@ -1,5 +1,6 @@
 # selfcloud 하드웨어 조립
 
+- <img width="800" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/fb523df3-e096-4796-82e3-f94d9931376d">
 ![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/a9088c86-22a6-474b-ac08-cd082944676b)
 
 
@@ -9,7 +10,7 @@
 - (1) NVMe 디스크에 Ubuntu 설치
   - RaspberryPi Imager를 이용하여 설치
   - RaspberryPi Imager 사용 
-  - <img width="678" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/fb523df3-e096-4796-82e3-f94d9931376d">
+  - <img width="800" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/fb523df3-e096-4796-82e3-f94d9931376d">
   - Ubutu 설치
 - (2) NVMe 부팅 설정
   - RaspiOS 를 이용하여, NVMe 부팅 설정해야 함
