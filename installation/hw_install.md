@@ -1,6 +1,6 @@
 # selfcloud 하드웨어 조립
 
-- <img width="800" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/fb523df3-e096-4796-82e3-f94d9931376d">
+- <img width="800" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/a9088c86-22a6-474b-ac08-cd082944676b">
 ![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/a9088c86-22a6-474b-ac08-cd082944676b)
 
 
