@@ -1,7 +1,6 @@
 
 ## 하드웨어 설치 방법
 ### 디바이스 
-- ![image](https://github.com/jeonghoonkang/selfcloud/assets/4180063/212087a6-6af8-4608-ae41-56a3e213a949)
 -  <img width="800" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/212087a6-6af8-4608-ae41-56a3e213a949">
 
 
