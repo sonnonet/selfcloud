@@ -1,4 +1,3 @@
-
 # Hardware Info
 
 ## Performance, CPU Speed 
