@@ -2,7 +2,7 @@
 
 - curl -fsSL https://raw.githubusercontent.com/SensorsIot/IOTstack/master/install.sh | bash
 - cd ~/IOTstack
-- sudo ./menu.sh
+- sudo ./menu.sh 실행하여, 메뉴로 선택 docker-compose.yml 생성 
   - 이후 메뉴에 따라 설치 [메뉴설치](<a href target=_blank > iostack_run.md </a>) 
 
 ## 문제 발생시, 설치 완료 불가능
