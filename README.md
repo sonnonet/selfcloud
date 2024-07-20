@@ -1,5 +1,5 @@
 
-# Self Cloud Machine for (in-house) self cloud computing
+# Self Cloud Machine for (in-house) self cloud server
 - Self cloud machine target is for ih-house self hosting big data, instelligent software service
 - It supports Home-scale cloud system which based on RaspberryPi5 and Ubuntu OS system
 - Web page : http://ssncloud.iptime.org:8888
