@@ -8,4 +8,6 @@
 
 - 인클로저
 - 라즈베리파이 공식 PCIe HAT
+  - <img width="800" alt="image" src="https://github.com/jeonghoonkang/selfcloud/assets/4180063/212087a6-6af8-4608-ae41-56a3e213a949">
+ 
   
