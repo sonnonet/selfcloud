@@ -5,7 +5,7 @@
 - Web page : http://ssncloud.iptime.org:8888
 
 ## RaspberryPi 5 with NVMe booting, it has very nice booting speed
-- High speed, quite enough performance for persnal and family cloud usage
+- High speed, quite enough performance for personal and family cloud system
 - Also name is SSDPi Ver.2.0 (as of 2024.3) on the web page which is same hardware and software
 
 
