@@ -1,7 +1,7 @@
 
 # Self Cloud Machine for (in-house) cloud service
 - Self cloud machine target is for ih-house self hosting big data, instelligent software service
-- It supports Home-scale cloud system which based on RaspberryPi5 and Ubuntu OS system
+- It supports Home-scale(in-house) cloud system which based on RaspberryPi5 and Ubuntu OS system
 - Web page : http://ssncloud.iptime.org:8888
 
 ## RaspberryPi 5 with NVMe booting, it has very good booting speed
