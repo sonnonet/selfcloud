@@ -1,6 +1,6 @@
 #  a few development work for self cloud application
 ## overview
-- this directory is for the test and run this self cloud system
+- this directory is for the test and to run this self cloud system
 - consist of installation, run scripts, system configuration
 
 ## (struct) structure
