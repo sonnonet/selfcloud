@@ -1,5 +1,5 @@
 
-## Installation
+## Installation SUNFOUNDER SW 
 
 <pre>
 cd ~
