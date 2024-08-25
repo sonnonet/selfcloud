@@ -15,3 +15,6 @@ sudo mv /usr/lib/python3.11/EXTERNALLY-MANAGED /usr/lib/python3.11/EXTERNALLY-MA
 
 
 ![image](https://github.com/user-attachments/assets/34ba078a-3234-4194-9fb0-62cf26b57493)
+
+
+- sudo docker images; sudo dcoker rmi {image이름}
