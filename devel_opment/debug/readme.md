@@ -1,4 +1,4 @@
-
+<pre>
 networks:                                                                                                                             
   default:                                                                                                                              
     name: iotstack_default                                                                                                              
@@ -11,6 +11,12 @@ networks:
     ipam:                                                                                                                                 
       driver: default                                                                                                                   
     internal: true    
+
+
+    mysql -u nextcloud -p -h 172.19.0.2  
+
+
+</pre>
 
 ![image](https://github.com/user-attachments/assets/670c49e7-7882-4fcc-ab99-ca9d5bf89262)
 
