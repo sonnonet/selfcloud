@@ -13,7 +13,7 @@
 1. NVMe 에 RaspberryPi5용 Ubuntu OS 설치
 2. 하드웨어 조립, NVMe 에 Ubuntu OS 이미지 다운로드 되어 있어야 함 (1번 과정 실행) 
 3. 네트워크 연결 및 클라우드 설정
-4. Docker 서비스 실행
+4. Docker 서비스 실행 (apps 디렉토리에 추가 내용 참조)
 ### Important
 - nextcloud Docker image error
 - should use image: nextcloud:28.0.9 in docker_compose.yml (as of 2024.8.31)
