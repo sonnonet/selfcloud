@@ -2,6 +2,8 @@
 - https://github.com/sunfounder/pm_auto
 ### run
 - PMAuto class which will run peripherals
+- sudo python3 sonno_oled.py
+  
 ## Before installation
 ### require to install 
 - sudo pip3 install adafruit-circuitpython-neopixel-spi
