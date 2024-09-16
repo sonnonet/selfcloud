@@ -2,7 +2,7 @@
 - https://github.com/sunfounder/pm_auto
 ### run
 - PMAuto class which will run peripherals
-- sudo python3 sonno_oled.py
+- <code> sudo python3 sonno_oled.py </code>
   
 ## Before installation
 ### require to install 
