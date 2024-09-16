@@ -4,8 +4,11 @@
   - https://github.com/sunfounder/pm_auto
   - https://github.com/sunfounder/sf_rpi_status  
 
-## Installation SUNFOUNDER SW 
+## detials of installation and run
+- https://github.com/jeonghoonkang/selfcloud/tree/main/devel_opment/pironman5
 
+## Installation SUNFOUNDER SW Pironman5
+- Pironman5 sometimes (not always) crashss when restart Pironman5 service by systemctl
 <pre>
 cd ~
 git clone https://github.com/sunfounder/pironman5.git
