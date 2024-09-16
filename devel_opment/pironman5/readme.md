@@ -10,7 +10,9 @@
 
 ## Using PMAuto
 - pmauto, sf_rpi_status
-  - URL
+  - https://github.com/sunfounder/pm_auto
+  - https://github.com/sunfounder/sf_rpi_status
+    
 ### Modification
 - pm_auto.py
   - change \_\_init\_\_ parameter which should get moving config=DEFAULT_CONFIG to inside the function 
