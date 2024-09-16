@@ -10,7 +10,6 @@
 
 ## Using PMAuto
 - pmauto, sf_rpi_status
-  - https://github.com/sunfounder/pm_auto
   - https://github.com/sunfounder/sf_rpi_status
     
 ### Modification
