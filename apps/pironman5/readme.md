@@ -4,8 +4,9 @@
   - https://github.com/sunfounder/pm_auto
   - https://github.com/sunfounder/sf_rpi_status  
 
-## detials of installation and run
+## detials of installation and run (just OLED driver)
 - https://github.com/jeonghoonkang/selfcloud/tree/main/devel_opment/pironman5
+- Thermal Fan is supported and run by default RaspberryPi5 driver 
 
 ## Installation SUNFOUNDER SW Pironman5
 - Pironman5 sometimes (not always) crashss when restart Pironman5 service by systemctl
