@@ -9,6 +9,7 @@
 <pre>
 mv pm_auto_main/pm_auto/ .
 mv sf_rpi_status_main/sf_rpi_status/ ./
+# 패키지들이 동일 디렉토리에 위치해야함. git clone 으로 생성된 디렉토리 하위에 package 위치함. 위치 변경 필요함 
 sudo python3 sonno_oled.py 
 sudo mv /usr/lib/python3.12/EXTERNALLY-MANAGED /usr/lib/python3.12/EXTERNALLY-MANAGED_OLD
 sudo pip3 install smbus2 
