@@ -28,6 +28,6 @@ sudo apt-get install python3-rpi.gpio
     
 ### Modification
 - pm_auto.py
-  - change \_\_init\_\_ parameter which should get moving config=DEFAULT_CONFIG to inside the function 
+  - change \_\_init\_\_ parameter which should get moving config=DEFAULT_CONFIG to inside the \_\_init\_\_ function 
   - change to <img width="580" alt="image" src="https://github.com/user-attachments/assets/cd10f814-5b7e-4aca-a5cc-a1ffdb218d0c">
 
