@@ -9,7 +9,7 @@
 - Thermal Fan is supported and run by default RaspberryPi5 driver 
 
 ## Installation SUNFOUNDER SW Pironman5
-- Pironman5 sometimes (not always) crashss when restart Pironman5 service by systemctl
+- Pironman5 sometimes (not always) crashes (system down)  when restart Pironman5 service by systemctl
 <pre>
 cd ~
 git clone https://github.com/sunfounder/pironman5.git
