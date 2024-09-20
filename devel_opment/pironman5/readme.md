@@ -5,7 +5,7 @@
 - <code> sudo python3 sonno_oled.py </code>
   
 ## Before installation
-### require to install, which is example CLI
+### require to install, example CLI
 <pre>
 mv pm_auto_main/pm_auto/ .
 mv sf_rpi_status_main/sf_rpi_status/ ./
