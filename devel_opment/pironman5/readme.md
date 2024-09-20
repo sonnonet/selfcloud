@@ -1,5 +1,7 @@
 ## Driver
-- https://github.com/sunfounder/pm_auto
+- pmauto, sf_rpi_status
+  - https://github.com/sunfounder/pm_auto
+  - util : https://github.com/sunfounder/sf_rpi_status
 ### run
 - PMAuto class which will run peripherals
 - <code> sudo python3 sonno_oled.py </code>
@@ -19,14 +21,8 @@ sudo pip3 install adafruit-circuitpython-neopixel-spi
 sudo apt-get install python3-dev 
 sudo apt-get install python3-rpi.gpio
 </pre>
-
-
-
-## Using PMAuto
-- pmauto, sf_rpi_status
-  - https://github.com/sunfounder/sf_rpi_status
     
-### Modification
+### Code modification
 - pm_auto.py
   - change \_\_init\_\_ parameter which should get moving config=DEFAULT_CONFIG to inside the \_\_init\_\_ function 
   - change to <img width="580" alt="image" src="https://github.com/user-attachments/assets/cd10f814-5b7e-4aca-a5cc-a1ffdb218d0c">
