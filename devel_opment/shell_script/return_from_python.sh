@@ -24,6 +24,17 @@ print(sensor_data)
 
 
 
+#!/bin/bash
+
+# Python 스크립트 실행하고 출력 캡처
+output=$(python output_data.py)
+
+# 출력된 데이터 사용
+echo "Received sensor data: $output"
+
+
+
+
 sensor_data = 123.456
 
 # 파일에 데이터 쓰기
