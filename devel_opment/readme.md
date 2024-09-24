@@ -1,4 +1,4 @@
-# A  a few development works for self cloud application
+# A  few development works for self cloud application
 ## overview
 - this directory is for the test and to run this self cloud system
 - consist of installation, run scripts, system configuration
