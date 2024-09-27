@@ -1,4 +1,4 @@
-#### Install (apt) SWs before using Self cloud apps 
+#### Installation (apt) SWs before using Self cloud apps 
 - sudo apt install docker-compose curl vim 
 
 #### Nextcloud
