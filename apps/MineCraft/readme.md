@@ -1,6 +1,8 @@
 # MineCraft private server install 
   - Ubuntu 24.10 LTS
   - Rasberrypi 5 8GB
+  - 참고 사이트
+      - https://pimylifeup.com/ubuntu-minecraft-server-java/
 
 # 1. step
 ```
